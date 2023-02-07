@@ -10,8 +10,8 @@
   <li>Refining and debugging the solution as needed, utilising develop, release, and master branches.</li>
 </ul>
 
-<h2>Gitflow Workflow</h2>
-<p>Our Gitflow workflow consists of three main branches: master, develop, and release.</p>
+<h2>Project Workflow</h2>
+<p>Our project utilises the renowned Gitflow version control workflow consisting of designing our software within three main Github branches: master, develop, and release.</p>
 
 <h3>Master Branch</h3>
 <p>The master branch represents the production-ready code and contains only the latest, stable releases of the software.</p>
