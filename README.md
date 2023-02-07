@@ -5,7 +5,7 @@
 <ul>
   <li>Understanding the SQL database structure and contents.</li>
   <li>Analyzing the report requirements and breaking them down into smaller, manageable tasks.</li>
-  <li>Developing a plan for organizing and delegating tasks among team members.</li>
+  <li>Developing a plan for organising and delegating tasks among team members.</li>
   <li>Implementing the report generation functionality and testing it against the requirements.</li>
   <li>Refining and debugging the solution as needed, utilising develop, release, and master branches.</li>
 </ul>
