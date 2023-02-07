@@ -1,10 +1,8 @@
 This project will center on designing and implementing an organisation with a software system which provides;
-
 integration with organisation databases
 reports on geographical demographics
 
 Our Approach
-
 To achieve the desired reports, our team will focus on the creating the desired software via the following steps:
 
 Understanding the SQL database structure and contents.
