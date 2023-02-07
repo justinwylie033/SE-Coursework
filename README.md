@@ -10,9 +10,6 @@
   <li>Refining and debugging the solution as needed, utilising develop, release, and master branches.</li>
 </ul>
 
-<h2>Individual Contributions</h2>
-<p>Our individual contributions will be assessed by our peers, taking into account factors such as attendance at meetings, quality of code, and metrics from tools such as GitHub. In the event that individual contributions require scaling, our team is aware that this will be taken into account in the overall coursework grade.</p>
-
 <h2>Gitflow Workflow</h2>
 <p>Our Gitflow workflow consists of three main branches: master, develop, and release.</p>
 
