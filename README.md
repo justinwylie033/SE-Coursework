@@ -20,9 +20,13 @@ Gitflow Workflow
 
 ![image](https://user-images.githubusercontent.com/121656622/217247938-de564c31-0d16-4ade-baeb-f2d49aa6e008.png)
 
-Master - To host production-ready software ready for release
-Develop - To host incomplete software architecture
-Release - To host 
+Our Gitflow workflow consists of three main branches: master, develop, and release.
+
+The master branch represents the production-ready code and contains only the latest, stable releases of the software.
+
+The develop branch is where all the new features and bug fixes are added and integrated into the code. This is the main branch for active development and is constantly updated as new changes are made.
+
+The release branch is created from the develop branch and is used to prepare a new release of the software. This branch includes the necessary bug fixes, changes, and testing before the software is finally merged into the master branch and released. Once a release is completed, the release branch is deleted, and the cycle starts over with a new release branch created from the updated develop branch.
 
 Database
 The provided SQL database will serve as the foundation for our population reporting system. Our team will take the time to familiarize ourselves with the database structure and contents to ensure that our solution is effective and efficient.
